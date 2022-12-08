@@ -1,0 +1,1211 @@
+{
+  "Tailspin.SpaceGame.Web.dll": {
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Home\\Index.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Home_Index/<ExecuteAsync>d__8": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Home_Index/<ExecuteAsync>d__8::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "57": 0,
+            "62": 0,
+            "63": 0,
+            "67": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0,
+            "81": 0,
+            "84": 0,
+            "87": 0,
+            "90": 0,
+            "94": 0,
+            "100": 0,
+            "103": 0,
+            "104": 0,
+            "106": 0,
+            "109": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "119": 0,
+            "125": 0,
+            "136": 0,
+            "143": 0,
+            "147": 0,
+            "149": 0,
+            "151": 0,
+            "155": 0,
+            "165": 0,
+            "171": 0,
+            "175": 0,
+            "177": 0,
+            "179": 0,
+            "183": 0,
+            "211": 0
+          },
+          "Branches": [
+            {
+              "Line": 57,
+              "Offset": 510,
+              "EndOffset": 512,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 510,
+              "EndOffset": 523,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 1561,
+              "EndOffset": 597,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 998,
+              "EndOffset": 1000,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 998,
+              "EndOffset": 1099,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 1561,
+              "EndOffset": 1566,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 1626,
+              "EndOffset": 1628,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 1626,
+              "EndOffset": 1644,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 1835,
+              "EndOffset": 1837,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 1835,
+              "EndOffset": 1841,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 109,
+              "Offset": 2219,
+              "EndOffset": 1849,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 1916,
+              "EndOffset": 1918,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 1916,
+              "EndOffset": 1921,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 109,
+              "Offset": 2219,
+              "EndOffset": 2224,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 119,
+              "Offset": 2240,
+              "EndOffset": 2242,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 119,
+              "Offset": 2240,
+              "EndOffset": 2258,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 2429,
+              "EndOffset": 2431,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 2429,
+              "EndOffset": 2447,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 147,
+              "Offset": 2956,
+              "EndOffset": 2661,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 149,
+              "Offset": 2688,
+              "EndOffset": 2690,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 149,
+              "Offset": 2688,
+              "EndOffset": 2725,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 147,
+              "Offset": 2956,
+              "EndOffset": 2961,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 165,
+              "Offset": 3006,
+              "EndOffset": 3008,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 165,
+              "Offset": 3006,
+              "EndOffset": 3024,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 175,
+              "Offset": 3505,
+              "EndOffset": 3210,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 0
+            },
+            {
+              "Line": 177,
+              "Offset": 3237,
+              "EndOffset": 3239,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 177,
+              "Offset": 3237,
+              "EndOffset": 3274,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 175,
+              "Offset": 3505,
+              "EndOffset": 3510,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Home\\Privacy.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Home_Privacy/<ExecuteAsync>d__0": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Home_Privacy/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0,
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Home\\Profile.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Home_Profile/<ExecuteAsync>d__0": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Home_Profile/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "5": 0,
+            "15": 0,
+            "20": 0,
+            "21": 0,
+            "24": 0,
+            "26": 0
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 430,
+              "EndOffset": 387,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 430,
+              "EndOffset": 432,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Shared\\Error.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Shared_Error/<ExecuteAsync>d__0": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared_Error/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "9": 0,
+            "12": 0
+          },
+          "Branches": [
+            {
+              "Line": 9,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 57,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Shared\\_CookieConsentPartial.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Shared__CookieConsentPartial/<ExecuteAsync>d__10": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__CookieConsentPartial/<ExecuteAsync>d__10::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "10": 0,
+            "29": 0
+          },
+          "Branches": [
+            {
+              "Line": 6,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 56,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 7,
+              "Offset": 73,
+              "EndOffset": 75,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 7,
+              "Offset": 73,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 101,
+              "EndOffset": 106,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 407,
+              "EndOffset": 409,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 407,
+              "EndOffset": 508,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 101,
+              "EndOffset": 576,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Shared\\_Layout.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_0>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_0>d::MoveNext()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": [
+            {
+              "Line": 6,
+              "Offset": 309,
+              "EndOffset": 311,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 309,
+              "EndOffset": 407,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 684,
+              "EndOffset": 686,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 684,
+              "EndOffset": 782,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_10>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_10>d::MoveNext()": {
+          "Lines": {
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 46,
+              "Offset": 400,
+              "EndOffset": 402,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 400,
+              "EndOffset": 498,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 891,
+              "EndOffset": 893,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 891,
+              "EndOffset": 992,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1367,
+              "EndOffset": 1369,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1367,
+              "EndOffset": 1465,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_1>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_1>d::MoveNext()": {
+          "Lines": {
+            "24": 0,
+            "49": 0
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 303,
+              "EndOffset": 305,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 303,
+              "EndOffset": 401,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 701,
+              "EndOffset": 703,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 701,
+              "EndOffset": 802,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1079,
+              "EndOffset": 1081,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1079,
+              "EndOffset": 1180,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_3>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_3>d::MoveNext()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 479,
+              "EndOffset": 481,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 479,
+              "EndOffset": 577,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 968,
+              "EndOffset": 970,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 968,
+              "EndOffset": 1066,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_9>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__38_9>d::MoveNext()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 277,
+              "EndOffset": 279,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 277,
+              "EndOffset": 375,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 645,
+              "EndOffset": 647,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 645,
+              "EndOffset": 746,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1121,
+              "EndOffset": 1123,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1121,
+              "EndOffset": 1219,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\_ViewStart.cshtml": {
+      "AspNetCoreGeneratedDocument.Views__ViewStart/<ExecuteAsync>d__0": {
+        "System.Void AspNetCoreGeneratedDocument.Views__ViewStart/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\LocalDocumentDBRepository.cs": {
+      "TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1": {
+        "System.Threading.Tasks.Task`1<T> TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::GetItemAsync(System.String)": {
+          "Lines": {
+            "38": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<T>> TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::GetItemsAsync(System.Func`2<T,System.Boolean>,System.Func`2<T,System.Int32>,System.Int32,System.Int32)": {
+          "Lines": {
+            "59": 5,
+            "60": 5,
+            "61": 5,
+            "62": 5,
+            "63": 5,
+            "65": 5
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Int32> TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::CountItemsAsync(System.Func`2<T,System.Boolean>)": {
+          "Lines": {
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "82": 0
+          },
+          "Branches": []
+        },
+        "System.Void TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::.ctor(System.String)": {
+          "Lines": {
+            "16": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Void TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::.ctor(System.IO.Stream)": {
+          "Lines": {
+            "22": 5,
+            "25": 5,
+            "26": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Program.cs": {
+      "TailSpin.SpaceGame.Web.Program": {
+        "System.Void TailSpin.SpaceGame.Web.Program::Main(System.String[])": {
+          "Lines": {
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Hosting.IWebHostBuilder TailSpin.SpaceGame.Web.Program::CreateWebHostBuilder(System.String[])": {
+          "Lines": {
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Startup.cs": {
+      "TailSpin.SpaceGame.Web.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration TailSpin.SpaceGame.Web.Startup::get_Configuration()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Void TailSpin.SpaceGame.Web.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        },
+        "System.Void TailSpin.SpaceGame.Web.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "45": 0,
+            "47": 0,
+            "51": 0,
+            "52": 0,
+            "55": 0,
+            "56": 0,
+            "58": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 6,
+              "EndOffset": 8,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 6,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void TailSpin.SpaceGame.Web.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\ErrorViewModel.cs": {
+      "TailSpin.SpaceGame.Web.Models.ErrorViewModel": {
+        "System.String TailSpin.SpaceGame.Web.Models.ErrorViewModel::get_RequestId()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean TailSpin.SpaceGame.Web.Models.ErrorViewModel::get_ShowRequestId()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\LeaderboardViewModel.cs": {
+      "TailSpin.SpaceGame.Web.Models.LeaderboardViewModel": {
+        "System.String TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_SelectedMode()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_SelectedRegion()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_Page()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_PageSize()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<TailSpin.SpaceGame.Web.Models.ScoreProfile> TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_Scores()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<System.String> TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_GameModes()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<System.String> TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_GameRegions()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_PrevLink()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_NextLink()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_TotalResults()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\Model.cs": {
+      "TailSpin.SpaceGame.Web.Models.Model": {
+        "System.String TailSpin.SpaceGame.Web.Models.Model::get_Id()": {
+          "Lines": {
+            "12": 125
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\Profile.cs": {
+      "TailSpin.SpaceGame.Web.Models.Profile": {
+        "System.String TailSpin.SpaceGame.Web.Models.Profile::get_UserName()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.Profile::get_AvatarUrl()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String[] TailSpin.SpaceGame.Web.Models.Profile::get_Achievements()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\Score.cs": {
+      "TailSpin.SpaceGame.Web.Models.Score": {
+        "System.String TailSpin.SpaceGame.Web.Models.Score::get_ProfileId()": {
+          "Lines": {
+            "9": 125
+          },
+          "Branches": []
+        },
+        "System.Int32 TailSpin.SpaceGame.Web.Models.Score::get_HighScore()": {
+          "Lines": {
+            "13": 125
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.Score::get_GameMode()": {
+          "Lines": {
+            "17": 125
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.Score::get_GameRegion()": {
+          "Lines": {
+            "21": 271
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kelvin.kan\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Controllers\\HomeController.cs": {
+      "TailSpin.SpaceGame.Web.Controllers.HomeController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult TailSpin.SpaceGame.Web.Controllers.HomeController::Privacy()": {
+          "Lines": {
+            "128": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult TailSpin.SpaceGame.Web.Controllers.HomeController::Error()": {
+          "Lines": {
+            "134": 0
+          },
+          "Branches": [
+            {
+              "Line": 134,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 134,
+              "Offset": 13,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 134,
+              "Offset": 25,
+              "EndOffset": 27,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 134,
+              "Offset": 25,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void TailSpin.SpaceGame.Web.Controllers.HomeController::.ctor(TailSpin.SpaceGame.Web.IDocumentDBRepository`1<TailSpin.SpaceGame.Web.Models.Score>,TailSpin.SpaceGame.Web.IDocumentDBRepository`1<TailSpin.SpaceGame.Web.Models.Profile>)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      },
+      "TailSpin.SpaceGame.Web.Controllers.HomeController/<>c": {
+        "System.Int32 TailSpin.SpaceGame.Web.Controllers.HomeController/<>c::<Index>b__3_2(TailSpin.SpaceGame.Web.Models.Score)": {
+          "Lines": {
+            "74": 0
+          },
+          "Branches": []
+        },
+        "TailSpin.SpaceGame.Web.Models.ScoreProfile TailSpin.SpaceGame.Web.Controllers.HomeController/<>c::<Index>b__3_1(TailSpin.SpaceGame.Web.Models.Score,System.Threading.Tasks.Task`1<TailSpin.SpaceGame.Web.Models.Profile>)": {
+          "Lines": {
+            "102": 0
+          },
+          "Branches": []
+        }
+      },
+      "TailSpin.SpaceGame.Web.Controllers.HomeController/<>c__DisplayClass3_0": {
+        "System.Boolean TailSpin.SpaceGame.Web.Controllers.HomeController/<>c__DisplayClass3_0::<Index>b__0(TailSpin.SpaceGame.Web.Models.Score)": {
+          "Lines": {
+            "65": 0,
+            "66": 0
+          },
+          "Branches": [
+            {
+              "Line": 65,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 11,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 43,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 30,
+              "EndOffset": 65,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "TailSpin.SpaceGame.Web.Controllers.HomeController/<Index>d__3": {
+        "System.Void TailSpin.SpaceGame.Web.Controllers.HomeController/<Index>d__3::MoveNext()": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "64": 0,
+            "69": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "80": 0,
+            "83": 0,
+            "85": 0,
+            "87": 0,
+            "89": 0,
+            "94": 0,
+            "95": 0,
+            "97": 0,
+            "99": 0,
+            "104": 0,
+            "106": 0,
+            "108": 0,
+            "110": 0
+          },
+          "Branches": [
+            {
+              "Line": 83,
+              "Offset": 585,
+              "EndOffset": 590,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 585,
+              "EndOffset": 742,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 766,
+              "EndOffset": 771,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 766,
+              "EndOffset": 923,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 95,
+              "Offset": 986,
+              "EndOffset": 945,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 95,
+              "Offset": 986,
+              "EndOffset": 988,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "TailSpin.SpaceGame.Web.Controllers.HomeController/<Profile>d__4": {
+        "System.Void TailSpin.SpaceGame.Web.Controllers.HomeController/<Profile>d__4::MoveNext()": {
+          "Lines": {
+            "118": 0,
+            "120": 0,
+            "122": 0,
+            "124": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
