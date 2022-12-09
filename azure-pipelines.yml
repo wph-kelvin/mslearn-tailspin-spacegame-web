@@ -69,6 +69,7 @@ steps:
 - task: CalromEmailReport@1
   inputs:
     sendMailConditionConfig: 'Always'
+    smtpConnectionEndpoint: 'SMTPConnectionForEmailReportTask'
     subject: '[{environmentStatus}] {passPercentage} tests passed in $(Release.EnvironmentName) stage for $(Build.BuildNumber)'
     defaultDomain: 'microsoft.com'
     includeResultsStr: '1, 2'
