@@ -100,4 +100,4 @@ steps:
     includeOthersInTotal: false
     usePreviousEnvironment: false
     smtpConnectionEndpoint: 'SMTPConnectionForEmailReportTask'
-    condition: always()
+   condition: always()
