@@ -69,8 +69,8 @@ steps:
 - task: CalromEmailReport@1
   inputs:
     sendMailConditionConfig: 'Always'
-    smtpConnectionEndpoint: 'SMTPConnectionForEmailReportTask'
     subject: '[{environmentStatus}] {passPercentage} tests passed in $(Release.EnvironmentName) stage for $(Build.BuildNumber)'
+    toAddress: 'kelvin.kan@wphdigital.com'
     defaultDomain: 'microsoft.com'
     includeResultsStr: '1, 2'
     groupTestResultsBy: 'run'
@@ -78,3 +78,4 @@ steps:
     maxTestFailuresToShow: '15'
     includeOthersInTotal: false
     usePreviousEnvironment: false
+    smtpConnectionEndpoint: 'SMTPConnectionForEmailReportTask'
