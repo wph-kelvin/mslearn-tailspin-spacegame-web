@@ -70,11 +70,10 @@ steps:
   inputs:
     sendMailConditionConfig: 'Always'
     subject: '[{environmentStatus}] {passPercentage} tests passed in $(Release.EnvironmentName) stage for $(Build.BuildNumber)'
-    toAddress: 'kelvin.kan@wphdigital.com'
     defaultDomain: 'microsoft.com'
     includeResultsStr: '1, 2'
     groupTestResultsBy: 'run'
-    includeCommits: true
+    includeCommits: false
     maxTestFailuresToShow: '15'
     includeOthersInTotal: false
     usePreviousEnvironment: false
