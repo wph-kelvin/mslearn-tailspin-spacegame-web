@@ -97,7 +97,8 @@ stages:
       inputs:
         sendMailConditionConfig: 'Always'
         subject: '[{environmentStatus}] {passPercentage} tests passed in $(Release.EnvironmentName) stage for $(Build.BuildNumber)'
-        includeInToSectionStr: 
+        includeInToSectionStr:
+        fromAddress: 'notification@wphdigital.com'
         toAddress: 'kelvin.kan@wphdigital.com'
         defaultDomain: 'microsoft.com'
         includeResultsStr: '1, 2'
