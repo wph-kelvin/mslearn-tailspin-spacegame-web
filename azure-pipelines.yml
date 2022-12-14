@@ -93,7 +93,7 @@ stages:
     - publish: '$(Build.ArtifactStagingDirectory)'
       artifact: drop
 
-    - task: CustomEmailReport@1
+    - task: CustomEmailReport2@1
       inputs:
         sendMailConditionConfig: 'Always'
         subject: '[{environmentStatus}] {passPercentage} tests passed in $(Release.EnvironmentName) stage for $(Build.BuildNumber)'
