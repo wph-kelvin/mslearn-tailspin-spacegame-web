@@ -93,12 +93,11 @@ stages:
     - publish: '$(Build.ArtifactStagingDirectory)'
       artifact: drop
 
-    - task: CalromEmailReport@1
+    - task: CustomEmailReport@1
       inputs:
         sendMailConditionConfig: 'Always'
         subject: '[{environmentStatus}] {passPercentage} tests passed in $(Release.EnvironmentName) stage for $(Build.BuildNumber)'
         includeInToSectionStr:
-        fromAddress: 'notification@wphdigital.com'
         toAddress: 'kelvin.kan@wphdigital.com'
         defaultDomain: 'microsoft.com'
         includeResultsStr: '1, 2'
