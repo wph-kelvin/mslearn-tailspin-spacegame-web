@@ -106,7 +106,7 @@ stages:
         maxTestFailuresToShow: '15'
         includeOthersInTotal: false
         usePreviousEnvironment: false
-        smtpConnectionEndpoint: 'SMTP'
+        smtpConnectionEndpoint: 'SMTPConnectionForEmailReportTask'
       condition: always()
 
 - stage: 'Deploy'
