@@ -99,7 +99,7 @@ stages:
         subject: '[{environmentStatus}] {passPercentage} tests passed in $(Release.EnvironmentName) stage for $(Build.BuildNumber)'
         includeInToSectionStr:
         toAddress: 'kelvin.kan@wphdigital.com'
-        defaultDomain: 'microsoft.com'
+        defaultDomain: 'wphdigital.com'
         includeResultsStr: '1, 2'
         groupTestResultsBy: 'run'
         includeCommits: true
